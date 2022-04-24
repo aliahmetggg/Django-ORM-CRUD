@@ -8,7 +8,7 @@ Django==4.0.4 <br />
 sqlparse==0.4.2  
 
 File struct should be: <br />
-->djangogo <br />
+djangogo <br />
   ->bookcrud <br />
   ->venv <br />
    
@@ -26,7 +26,7 @@ because there is no need to change values
 Run files that you want with: <br />
 python manage.py shell  < create.py  
 python manage.py shell  < read.py  
-python manage.py shell  < update.py
+python manage.py shell  < update.py <br />
 python manage.py shell  < delete.py
 
 For the set up virtual environment you can follow: <br />
