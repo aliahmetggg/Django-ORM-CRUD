@@ -2,10 +2,10 @@
 Making basic create read update delete operations on Django without any SQL code (ORM)
 
 First you should create a virtual environment that include:
-asgiref==3.5.0\n
-backports.zoneinfo==0.2.1\n
-Django==4.0.4\n
-sqlparse==0.4.2\n
+asgiref==3.5.0
+backports.zoneinfo==0.2.1
+Django==4.0.4
+sqlparse==0.4.2
 
 File struct should be:
 ->djangogo
