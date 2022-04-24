@@ -4,6 +4,6 @@ from ilk.models import Book
 def read():
 
     for i in Book.objects.all():
-        print(i.book_name, i.author, i.stock_count, i.prize, sep='-')
+        print(i.id, i.book_name, i.author, i.stock_count, i.prize, sep='-')
 
 read()
